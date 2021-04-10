@@ -1,0 +1,34 @@
+.Dashboard {
+    flex: 1;
+}
+
+.Banner {
+    width: 100%;
+}
+
+.Start {
+    width: 20px;
+    height: 20px;
+}
+
+.start-container {
+    margin-right: 15px;
+}
+
+.add-to-cart {
+    max-width: 300px;
+}
+
+@media only screen and (min-width: 991px) {
+    .Banner {
+        max-width: 600px;
+    }
+}
+
+.Footer {
+    height: 50px;
+    color: white;
+    background: #33333A;
+    width: 100%;
+    padding: 20px;
+}
