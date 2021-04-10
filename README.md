@@ -11,6 +11,9 @@ This test contains simulated the login click, also the registration one, so if y
 
 In the project directory, you can run:
 
+### `yarn install`
+Install all dependencies
+
 ### `yarn start`
 
 Runs the app in the development mode.\
